@@ -49,6 +49,39 @@ volumes:
 ## Cambia el tema predeterminado de WordPress e instala un tema diferente (puede ser cualquiera). Explora las opciones de personalización que ofrece y evalúa cómo afecta al contenido.
 Hay que ir a pandel de administración a "apariencia" y "temas"
 
+### Añadiendo imagenes pendientes descripcion:
+
+![wordpress1_instalar](https://github.com/user-attachments/assets/bee633be-b0c7-48eb-8c7f-f49a4ff11829)
+
+![wordpress2_instalar2](https://github.com/user-attachments/assets/ec856a79-1220-4e28-9928-cfb5724e3cfc)
+
+![Wordpress3_bienvenida](https://github.com/user-attachments/assets/99ac5a69-e786-45f3-925f-a0cbd9b46496)
+
+![wordpress4_temas](https://github.com/user-attachments/assets/c457790c-5248-4e12-9498-81e8f9ba3732)
+
+![wordpress5_temas2](https://github.com/user-attachments/assets/b68b281d-5139-4b62-940b-7d3cea9dfb51)
+
+![wordpress6_temas3](https://github.com/user-attachments/assets/4f04a054-c12f-4b6f-831f-c852ca3bca28)
+
+![wordpress7_usuario1](https://github.com/user-attachments/assets/0fa31f83-4cb5-411e-b802-5680f074fea6)
+
+![wordpress8_usuario2](https://github.com/user-attachments/assets/5d23c533-3cbb-4795-a06e-ae19156f587a)
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------
+
+
+
+
+
 ## Crea usuarios con diferentes roles: al menos un editor, un colaborador y un autor.
 Hay que ir a panel de administación, usuarios.
 
