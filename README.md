@@ -63,9 +63,7 @@ Hay que ir a pandel de administración a "apariencia" y "temas"
 
 ![wordpress6_temas3](https://github.com/user-attachments/assets/4f04a054-c12f-4b6f-831f-c852ca3bca28)
 
-![wordpress7_usuario1](https://github.com/user-attachments/assets/0fa31f83-4cb5-411e-b802-5680f074fea6)
 
-![wordpress8_usuario2](https://github.com/user-attachments/assets/5d23c533-3cbb-4795-a06e-ae19156f587a)
 
 
 
@@ -85,9 +83,9 @@ Hay que ir a pandel de administración a "apariencia" y "temas"
 ## Crea usuarios con diferentes roles: al menos un editor, un colaborador y un autor.
 Hay que ir a panel de administación, usuarios.
 
-## Pendiente comprobaciones compañeros
+![wordpress7_usuario1](https://github.com/user-attachments/assets/0fa31f83-4cb5-411e-b802-5680f074fea6)
 
-
+![wordpress8_usuario2](https://github.com/user-attachments/assets/5d23c533-3cbb-4795-a06e-ae19156f587a)
 
 
 
